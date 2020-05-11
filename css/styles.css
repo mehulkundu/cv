@@ -1,3 +1,5 @@
+/**************Tag Selectors****************/
+
 body {
     background-color: #F1FAEE;
     }
@@ -39,4 +41,18 @@ table{
 ul{
     font-family: 'Montserrat';
     color: #1d3557;
+}
+
+a{
+    color: #457b9d;
+}
+
+/*****************Class Selector******************/
+
+.circular {
+    border-radius: 100%;
+}
+
+.link:hover{
+    color: #a8dadc;
 }
